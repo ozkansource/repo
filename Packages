@@ -4,8 +4,8 @@ Section: Tweaks
 Maintainer: Eren Ozkan <erenozkandev@gmail.com>
 Depends: firmware (>9.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .debs/com.erenozkan.homenotes_0.0.1-7+debug_iphoneos-arm.deb
-Size: 700
+Filename: .\debs\com.erenozkan.homenotes_0.0.1-7+debug_iphoneos-arm.deb
+Size: 700000
 MD5sum: 49DF7516759477C521CB213B2A1FBBA9
 Description: Awesome homescreen tweak which allows you to take notes on the homescreen, IOS 9-12, IPHONE 5,5C,5S,SE
 Name: HomeNotes
