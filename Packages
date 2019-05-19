@@ -3,11 +3,11 @@ Name: HomeNotes
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: A tweak that allows you to take notes on the home screen.
 Maintainer: Eren Özkan
 Author: Eren Özkan
 Section: Tweaks
-Filename: ./deb/com.erenozkan.homenotes.deb
+Filename: ./debs/com.erenozkan.homenotes.deb
 Depiction: https://ozkansource.github.io/repo/depictions/?p=homenotes
 Size: 6818
 MD5sum: 49DF7516759477C521CB213B2A1FBBA9
