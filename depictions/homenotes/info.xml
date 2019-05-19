@@ -1,7 +1,7 @@
 <package>
 	<id>com.erenozkan.homenotes</id>
-	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<name>HomeNotes</name>
+	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>13</maxiOS>
@@ -13,10 +13,11 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>IOS 9-12 HomeNotes</description>
+		<description>IOS 9-12 HomeNotes take notes on the homescreen</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
+	<version>0.0.1</version>
 		<change>Initial release</change>
 	</changelog>
 	<links></links>
